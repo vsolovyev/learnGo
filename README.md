@@ -1,1 +1,1 @@
-# learnGo
+# HowTo
